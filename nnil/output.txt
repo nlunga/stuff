@@ -1,0 +1,2 @@
+# Nmap 7.60 scan initiated Sun Dec 27 11:34:12 2020 as: nmap -sP -oN output.txt 192.168.0.0/24
+# Nmap done at Sun Dec 27 11:34:12 2020 -- 256 IP addresses (0 hosts up) scanned in 0.02 seconds
